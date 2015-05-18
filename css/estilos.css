@@ -1,0 +1,13 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+body{
+  background: #c0c0c0;
+}
+.contenedor{
+width: 40%;
+height: auto;
+margin: 200px 30%;
+
+}
